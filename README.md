@@ -1,4 +1,4 @@
-# Hello there! I'm Felix aka felix-rojas
+# Hello there! I'm Felix.
 
 ## I'm currently studying computer science
 Favorite topics so far:
