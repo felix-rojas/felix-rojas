@@ -50,3 +50,26 @@ Favorite topics so far:
 [![Stringology -Dark](https://github-readme-stats.vercel.app/api/pin/?username=felix-rojas&repo=AI1_Actividad_Integradora_1&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Stringology -Dark](https://github-readme-stats.vercel.app/api/pin/?username=felix-rojas&repo=AI1_Actividad_Integradora_1&layout=donut&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+## Working Experience
+
+### University - Enterprise collaborations
+
+#### Fundación Roberto Ruiz Obregón
+Team Member for 6 months - 2023
+[Android App](https://play.google.com/store/apps/details?id=com.fundacionrobertoruiz.kotlin.robertoruizapp&hl=es_MX&gl=US) for [Fundación Roberto Ruiz Obregón](https://frroac.com/)
+
+#### Natgas
+Team Member 6 months - 2022
+[Web App proposal](https://github.com/alanrazop/StarSystems) for [NatGas](https://www.natgas.com.mx/)
+
+### Independent development
+Currently creating a multi-platform todo app using Flutter with [Matthew Eaton](https://matt200346.github.io/)
+
+## Education
+Tecnológico de Monterrey, Campus Querétaro
+Computer Science, 6th semester
+
+### Courses & practice
+Google Cloud Skills
+Codeforces
