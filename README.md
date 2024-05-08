@@ -1,7 +1,6 @@
 # Hello there! I'm Felix.
 
-## I'm currently studying computer science
-Favorite topics so far:
+## I'm a passionate, knowledge driven developer studying computer science
 - 📊 Data organization, analysis and visualization
 - ☊  Graph theory (specially automatas)
 - 📐 Algorithm analysis
@@ -12,6 +11,14 @@ Favorite topics so far:
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on FOSS projects
 - 🤔 I’m looking for help with how to contribute to FOSS
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/f%C3%A9lix-javier-rojas-gallardo-928631290/)
+
+flixgallardo@gmail.com
+
+felix.j.rojas@protonmail.com
+
 
 ## Tools 
 
