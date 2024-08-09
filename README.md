@@ -5,6 +5,7 @@
 - ☊  Graph theory (specially automatas)
 - 📐 Algorithm analysis
 - 🐧 FOSS
+- 🤖 Automation!
 
 ## Goals
 - 🔭 I’m currently working on multi-platform todo-app
@@ -72,6 +73,9 @@ Team Member 6 months - 2022
 
 ### Independent development
 Currently creating a multi-platform todo app using Flutter with [Matthew Eaton](https://matt200346.github.io/)
+
+### Volunteering
+Currently creating a webservice for a non-profit to manage community service.
 
 ## Education
 Tecnológico de Monterrey, Campus Querétaro
