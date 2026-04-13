@@ -8,10 +8,9 @@
 - 🤖 Automation!
 
 ## Goals
-- 🔭 I’m currently working on multi-platform todo-app
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on FOSS projects
-- 🤔 I’m looking for help with how to contribute to FOSS
+- Currently learning to train Deep Learning models
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/f%C3%A9lix-javier-rojas-gallardo-928631290/)
